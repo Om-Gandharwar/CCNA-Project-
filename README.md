@@ -1,4 +1,4 @@
-CCNA Project
+**CCNA Project**
 This repository showcases my hands-on experience with Cisco Certified Network Associate (CCNA) concepts, gained through the Cybervault Institute course. The projects and configurations included demonstrate my understanding of various networking topics.
 
 Key Topics Covered
