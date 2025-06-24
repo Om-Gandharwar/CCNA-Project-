@@ -23,4 +23,4 @@ This repository showcases my hands-on experience with Cisco Certified Network As
     - HSRP (Hot Standby Router Protocol)
 
 Certificate
-View my CCNA certificate on LinkedIn: (link unavailable)
+View my CCNA certificate on LinkedIn: (https://www.linkedin.com/posts/om-gandharwar_cisco-certified-network-associate-certificate-activity-7334526650300174336-h7dk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADheH28B65PFhg37DGYgIpztSqut6gp_VUY)
