@@ -4,7 +4,7 @@ VLAN PROTOCOL -
 
 1ST ROUTER CONFIGURATION -
 
-![VLAN Configuration](https://github.com/user-attachments/assets/ccf60999-9452-45b5-81c0-48a9748a60be)
+![1st Router Configuration](https://github.com/user-attachments/assets/bd782f35-e718-4d48-a8fc-c06b109c0b6d)
 
 DTP CONFIGURATION ON SWITCH  - 
 
