@@ -1,4 +1,4 @@
-VIRTUAL LAN TRUNKING PROTOCOL (VLAN) -
+VIRTUAL LAN TRUNKING PROTOCOL (VTP) -
 
 ![VTP PROTOCOL](https://github.com/user-attachments/assets/53a8ba45-2037-4a17-9990-4f0f1c5b73c2)
 
