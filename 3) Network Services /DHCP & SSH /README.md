@@ -1,4 +1,4 @@
-3 ROUTER WIHT DHCP PROTOCOL - 
+3 ROUTER WITH DHCP PROTOCOL - 
 
 ![3 Router With DHCP Protocol](https://github.com/user-attachments/assets/84129f4a-52de-4367-8467-ea811ffc7a54)
 
